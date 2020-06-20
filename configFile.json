@@ -1,0 +1,15 @@
+{
+  "dropBox": [
+    {
+      "fileName": "High Pitch",
+      "imageURL": "https://facebook.com"
+    }
+  ],
+  "youTube": [
+    {
+      "fileName": "Low Pitch",
+      "imageURL": "https://youtube.com"
+    }
+  ],
+  "version": 1
+}
