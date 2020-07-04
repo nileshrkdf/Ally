@@ -1,5 +1,5 @@
 {
-  "newtutorialVideos":[{
+  "newTutorialVideos":[{
     "videoId":1,
     "videoTitle":"Voice teacher talks tongue technique",
     "videoImageName":"video1.png",
@@ -13,13 +13,13 @@
     "videoDescription":"Video decription"
   }],
   "tutorialVideos":[{
-    "videoId":3,
+    "videoId":1,
     "videoTitle":"Title of the video",
     "videoImageName":"name of the video image",
     "videoYoutubeID":"Youtube video Id",
     "videoDescription":"Video decription"
   },{
-    "videoId":4,
+    "videoId":2,
     "videoTitle":"Title of the video",
     "videoImageName":"name of the video image",
     "videoYoutubeID":"Youtube video Id",
