@@ -15,13 +15,13 @@
   "tutorialVideos":[{
     "videoId":1,
     "videoTitle":"tutorialVideos1",
-    "videoImageName":"name of the video image",
+    "videoImageName":"tutorialVideos1.png",
     "videoYoutubeID":"Youtube video Id",
     "videoDescription":"Video decription"
   },{
     "videoId":2,
     "videoTitle":"tutorialVideos2",
-    "videoImageName":"name of the video image",
+    "videoImageName":"tutorialVideos2.png",
     "videoYoutubeID":"Youtube video Id",
     "videoDescription":"Video decription"
   }]
