@@ -14,15 +14,15 @@
   }],
   "tutorialVideos":[{
     "videoId":1,
-    "videoTitle":"tutorialVideos1",
+    "videoTitle":"Voice teacher talks tongue technique",
     "videoImageName":"tutorialVideos1.png",
-    "videoYoutubeID":"Youtube video Id",
-    "videoDescription":"Video decription"
+    "videoYoutubeID":"fgWCCo-NxvM",
+    "videoDescription":"Voice teacher, Allison Rozsa Evans, talks about the tongue and how it affects the sound you make."
   },{
     "videoId":2,
-    "videoTitle":"tutorialVideos2",
+    "videoTitle":"Grandma from \"The Children\" by Theodore Chanler",
     "videoImageName":"tutorialVideos2.png",
-    "videoYoutubeID":"Youtube video Id",
-    "videoDescription":"Video decription"
+    "videoYoutubeID":"IDnju9o1ADM",
+    "videoDescription":"Live performance of \"The Children\" by Theodore Chanler sung by Allison Rozsa Evans with Sarah Jenks on piano."
   }]
 }
